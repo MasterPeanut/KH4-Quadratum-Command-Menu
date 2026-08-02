@@ -46,15 +46,15 @@ assets:
 - name: remastered/fr/FR_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/fr/FR_zz0command_2dd0.png
+  - name: remastered/fr/-0.png
 - name: remastered/gr/GR_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/gr/GR_zz0command_2dd0.png
+  - name: remastered/gr/-0.png
 - name: remastered/it/IT_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/it/IT_zz0command_2dd0.png
+  - name: remastered/it/-0.png
 - name: remastered/sp/SP_zz0command_2dd0.png
   method: copy
   source:
@@ -62,4 +62,4 @@ assets:
 - name: remastered/us/US_zz0command_2dd0.png
   method: copy
   source:
-  - name: remastered/us/US_zz0command_2dd0.png
+  - name: remastered/us/-0.png
