@@ -1,0 +1,65 @@
+title: KH4 Quadratum Command Menu (shibuya) 
+originalAuthor: MasterPeanuts - Mr.Puzzels
+description: This Mod replaces the Classic KH 1 Command menu with the Quadratum variante as seen in the Trailer. Multi 5. Original Sprite sheet Provided by Mr.Puzzels
+dependencies: 
+assets:
+- name: field2d/fr/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/fr/zz0command.2dd
+- name: field2d/gr/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/gr/zz0command.2dd
+- name: field2d/it/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/it/zz0command.2dd
+- name: field2d/sp/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/sp/zz0command.2dd
+- name: field2d/us/zz0command.2dd
+  method: copy
+  source:
+  - name: field2d/us/zz0command.2dd
+- name: msg/fr/sys.bar
+  method: copy
+  source:
+  - name: msg/fr/sys.bar
+- name: msg/gr/sys.bar
+  method: copy
+  source:
+  - name: msg/gr/sys.bar
+- name: msg/it/sys.bar
+  method: copy
+  source:
+  - name: msg/it/sys.bar
+- name: msg/sp/sys.bar
+  method: copy
+  source:
+  - name: msg/sp/sys.bar
+- name: msg/us/sys.bar
+  method: copy
+  source:
+  - name: msg/us/sys.bar
+- name: remastered/fr/FR_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/fr/FR_zz0command_2dd0.png
+- name: remastered/gr/GR_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/gr/GR_zz0command_2dd0.png
+- name: remastered/it/IT_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/it/IT_zz0command_2dd0.png
+- name: remastered/sp/SP_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/sp/SP_zz0command_2dd0.png
+- name: remastered/us/US_zz0command_2dd0.png
+  method: copy
+  source:
+  - name: remastered/us/US_zz0command_2dd0.png
