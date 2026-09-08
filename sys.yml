@@ -1,0 +1,29 @@
+- id: 0x3735
+  en: Shibuya (KH4)
+  it: Shibuya (KH4)
+  sp: Shibuya (KH4)
+  gr: Shibuya (KH4)
+  fr: Shibuya (KH4)
+  jp: バイセニアルトレース
+- id: 0x3737
+  en: >-
+    Transform the look of the original commandmenu
+    
+    to the {:color #8C0503FF}KH4{:reset} Version of {:color #8C0503FF}Quadratums{:reset} theme.{:color #8C0503FF}
+  it: >- 
+    Sostituisci il menu dei comandi originale
+
+    con la versione {:color #8C0503FF}KH4{:reset} del tema {:color #8C0503FF}Quadratums{:reset}.
+  sp: >-
+   Cambia el aspecto del menú de comandos
+   
+   original por la versión {:color #8C0503FF}KH4{:reset} del tema {:color #8C0503FF}Quadratum{:reset}.
+  gr: >- 
+    Ersetze das ursprüngliche Kommando-Menü
+    
+    durch die {:color #8C0503FF}KH4{:reset}-Version des {:color #8C0503FF}Quadratum{:reset}-Themes.
+  fr: >-
+    Remplacez le menu de commandes d'origine
+    
+    par la version {:color #8C0503FF}KH4{:reset} du thème {:color #8C0503FF}Quadratum{:reset}.
+  jp: つながる心の力を記憶したキーブレード
